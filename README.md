@@ -1,4 +1,4 @@
-# Alfred-AirPods-Pro-Mode-Switch
+# Alfred Workflow for Airpods Pro Transparency and Active Noise Cancellation (ACN) modes
 Alfred workflow to switch between your AirPods Pro Transparency and ACN mode with just one command from any macOS computer.
 
 ## Set-up
