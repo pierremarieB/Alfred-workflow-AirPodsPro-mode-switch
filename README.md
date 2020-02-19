@@ -11,7 +11,7 @@ Be careful to not mistake the character `'` and `’`! Only the latter will work
 You also need to make sure to have the Volume Control in your menu bar since the workflow simulates the mouse clicks of a regular user. Here is how to do it: https://support.apple.com/en-gb/guide/mac-help/mchl1f98810b/mac
 
 ## Run
-Simply type "switch" to switch between the Transparency and ACN modes.
+Simply type `switch` to switch between the Transparency and ACN modes.
 
 ## Contributions
 Feel free to make any contribution to this workflow by submitting Pull Requests or letting me know directly of a possible feature request.
